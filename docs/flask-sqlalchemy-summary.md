@@ -1,4 +1,4 @@
-﻿# Flask-SQLAlchemy 学习总结
+﻿# []Flask-SQLAlchemy 学习总结
 
 ## 初始化和配置
 
