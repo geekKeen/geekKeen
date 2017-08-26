@@ -13,6 +13,7 @@ Welcome Mouse's blog
 2. [Flask-SQLALchemy 学习总结](flask-sqlalchemy-summary)
 3. [深入 Flask 源码理解Context](flask-src-context)
 4. [深入 Tornado 源码了解IOLoop 和 异步协程](tornado-ioloop-async)
+5. [深入 Flask 源码了解 Blueprint](flask-blueprint.md)
 
 ## 数据结构
 
