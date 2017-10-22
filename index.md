@@ -35,6 +35,12 @@ Welcome Mouse's blog
 
 ---
 
+## Python
+
+1. [记使用类装饰器产生的 Bug，闭包的特性](class-decorator-bug.md)
+
+---
+
 ## 联系方式
 
 1. QQ Email: `1593487967@qq.com`
