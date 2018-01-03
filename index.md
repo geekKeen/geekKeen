@@ -27,6 +27,7 @@ Welcome Mouse's blog
 ## 数据库
 
 1. [InnoDB](InnoDB-mvvc)
+2. [Index介绍与简单的性能优化](database-index.md)
 
 ---
 
